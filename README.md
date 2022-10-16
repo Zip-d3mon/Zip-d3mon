@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Zip-d3mon
-- 👀 I’m interested in Web Developer.
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m @Zip-d3mon.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on internships.
 - 📫 How to reach me email- prashantvishwakarma748@gmail.com
 
